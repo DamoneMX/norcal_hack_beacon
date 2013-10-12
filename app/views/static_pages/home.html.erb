@@ -9,7 +9,9 @@ html, body, #map-canvas {
 <div class="row">
 	<div class="col-sm-12">
     	<%= link_to("Beacon", static_pages_beacon_path) %>
-    	<span style="float:right;cursor:pointer;" onclick="$('#conversation_div').collapse('hide');">Hide conversation</span>
+    	
+   </div>
+   <div class="col-sm-12">
     <div>
     	<button type="button" style="display:none" id="conversation_toggler" class="btn btn-danger" data-toggle="collapse" data-target="#conversation_div">
 		  simple collapsible
@@ -17,6 +19,7 @@ html, body, #map-canvas {
 
 		<div id="conversation_div" class="collapse out panel">
 			Tons of awesome conversations
+			<span style="float:right;cursor:pointer;" onclick="$('#conversation_div').collapse('hide');"><span class="glyphicon glyphicon-chevron-down"></span>&nbsp;Hide conversation &nbsp;</span>
 			<input type="text" id="message_area" class="form-control" placeholder="Say Something!!!">
 			<div id="conversation_holder" />
 			</div>
