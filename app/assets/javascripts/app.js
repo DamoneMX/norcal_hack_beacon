@@ -34,6 +34,7 @@ $(document).ready(function() {
 			chats_ref.on('child_added', function(snapshot) { 
 				//console.log("active beacon: ") + active_beacon;
 				//console.log("child has been added to chats for: " + beacn_id); //no funciona por q 
+				console.log("has been triggered");
 				var snap = snapshot.val();
 				$("#conversation_holder").prepend("<div class='panel panel-default'><div class='panel-body'><img height='50' width='50' src='https://graph.facebook.com/"+snap.sender+"/picture/?width=45&amp;height=45'>  "+snap.text+"</div></div></div>");
 			});
