@@ -2,7 +2,11 @@ var users_ref = new Firebase('https://facebook-hack.firebaseio.com/users');
 var chat_ref = new Firebase("https://facebook-hack.firebaseio.com/beacon_chat_test");
 
 function addUser(userId){
+	console.log("adding user");
 	users_ref.push({user:userId});
+	//var chat_ref = new Firebase("https://facebook-hack.firebaseio.com/beacon_chat_test");
+	var chat_ref = new Firebase("https://facebook-hack.firebaseio.com/users/"+ userId);
+	chat_ref.set(userId)
 }
 
 function getUser(userId){
