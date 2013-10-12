@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Sample Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+	<script src="js/jquery-2.0.3.min.js"></script>
+    <script>
+      $(document).ready(function() {
+		  $.ajaxSetup({ cache: true });
+		  $.getScript('//connect.facebook.net/en_UK/all.js', function(){
+		    FB.init({
+		      appId: '1409756135920296',
+		      channelUrl: '//yourapp.com/channel.html',
+		    });     
+		    $('#loginbutton,#feedbutton').removeAttr('disabled');
+		    FB.getLoginStatus(updateStatusCallback);
+		  });
+		  console.log("done");
+		});
+    </script>
+  </head>
+
+  <body>
+  <div id="fb-root"></div>
+
+  </body>
+</html>
