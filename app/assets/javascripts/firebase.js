@@ -57,10 +57,15 @@ function getBeacons(){
         });
         google.maps.event.addListener(marker, 'click', (function(marker, content) {
             return function() {
-                infowindow.setContent(content);
-                infowindow.open(map, marker);
                 displayConversation(beacon_id);
                 active_beacon = beacon_id;
+            }
+        })(marker, content));
+        
+        google.maps.event.addListener(marker, 'mouseover', (function(marker, content) {
+            return function() {
+                infowindow.setContent(content);
+                infowindow.open(map, marker);
             }
         })(marker, content));
         }
@@ -99,10 +104,11 @@ function displayConversation(beacon_id){
 	console.log(beacon_id);
 	$("#conversation_holder").html("");
 	var chats_ref = new Firebase("https://facebook-hack.firebaseio.com/chats/" + beacon_id).once('value', function(messages){ 
+		console.log(messages);
    	    messages.forEach(function(child) {
    	    var message = child.val();
 		console.log(message.text );
-			$("#conversation_holder").append("<div><img src='https://graph.facebook.com/"+message.sender+"/picture/?width=45&amp;height=45'>"+message.text+"</div>");
+			$("#conversation_holder").prepend("<div class='panel panel-default'><div class='panel-body'><img src='https://graph.facebook.com/"+message.sender+"/picture/?width=45&amp;height=45'>  "+message.text+"</div></div></div>");
     	});
     });
     

@@ -6,7 +6,7 @@ $(document).ready(function() {
 	    if(e.which == 13) 
 	    	if($("#message_area").val() != ""){
 	    		sendMessage(active_beacon);
-	    		$("#conversation_holder").append("<div><img src='https://graph.facebook.com/"+FB.getUserID()+"/picture/?width=45&amp;height=45'>"+$("#message_area").val()+"</div>");
+	    		$("#conversation_holder").prepend("<div><img src='https://graph.facebook.com/"+FB.getUserID()+"/picture/?width=45&amp;height=45'>"+$("#message_area").val()+"</div>");
 	    		$("#message_area").val("");
 	    	}
 	});
