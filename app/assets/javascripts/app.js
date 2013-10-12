@@ -10,9 +10,11 @@ $(document).ready(function() {
 	    			$('#myModal').modal()
 	    			return;
 	    		}
-	    		sendMessage(active_beacon);
-	    		$("#conversation_holder").prepend("<div class='panel panel-default'><div class='panel-body'><img src='https://graph.facebook.com/"+FB.getUserID()+"/picture/?width=45&amp;height=45'>  "+$("#message_area").val()+"</div></div></div>");
-	    		$("#message_area").val("");
+	    		else{
+		    		sendMessage(active_beacon);
+		    		$("#conversation_holder").prepend("<div class='panel panel-default'><div class='panel-body'><img height='50' width='50' src='https://graph.facebook.com/"+FB.getUserID()+"/picture/?width=45&amp;height=45'>  "+$("#message_area").val()+"</div></div></div>");
+		    		$("#message_area").val("");
+	    		}
 	    	}
 	});
 });
