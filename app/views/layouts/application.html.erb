@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>FbTest</title>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
   <script src="https://cdn.firebase.com/v0/firebase.js"></script>
   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
@@ -10,13 +11,23 @@
   <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 </head>
 <body>
-<div id="fb-root"></div>
-	<div class="container">
+	<nav>
+      <ul class="pull-left">
+        <li><a href="#" onClick="jarallax.jumpToProgress( 0, 2000, 30);">Intro</a></li>
+        <li><a href="#" onClick="jarallax.jumpToProgress( 10, 2000, 30);">What is MindFire?</a></li>
+        <li><a href="#" onClick="jarallax.jumpToProgress( 20, 2000, 30);">About Us</a></li>
+      </ul>
+
+      <form accept-charset="UTF-8" action="#" class="navbar-form pull-right" method="post">
+        <div id="fb-root"></div>
+	
 		<fb:login-button show-faces="true" width="200" max-rows="1"></fb:login-button>
 		<button onclick="logout()"> Logout </button>
-		
-		<%= yield %>
-	</div>
+      </form>
+    </nav>
+<div class="container">
+	<%= yield %>
+</div>
 	<!--
 	<div id="friends_list">
 	</div>
