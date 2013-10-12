@@ -58,7 +58,7 @@ function testAPI() {
 		    
     FB.api('/me/friends?limit=2000&offset=0', function(response) { //gets friends
 		for(var x in response.data)
-		 	$("#friends_list").append("<div data-id='"+response.data[x].id+"'><img src='https://graph.facebook.com/"+response.data[x].id+"/picture/?width=45&amp;height=45'>"+response.data[x].name+"</div>");
+		 	$("#friends_list").append("<div data-id='"+response.data[x].id+"'><img  width='50' height='50' src='https://graph.facebook.com/"+response.data[x].id+"/picture/?width=45&amp;height=45'>"+response.data[x].name+"</div>");
 	});
 }
 

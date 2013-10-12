@@ -13,9 +13,10 @@ function getUser(userId){
 	
 }
 
-function addBeacon(userId, beaconInfo){
-	var beacons_ref = new Firebase("https://facebook-hack.firebaseio.com/beacons");
-	var reference = beacons_ref.push({test:"test",test2:"test2", latitude: "39.32", longitude: "22.21", ownerId: '333'});
+//function addBeacon(userId, beaconInfo){
+function addBeacon(){
+	var beacons_ref = new Firebase("https://facebook-hack.firebaseio.com/beacons"); //37.4846756 -122.1483885
+	var reference = beacons_ref.push({test:"FROGGIE FEVER 13TH BIRTHDAY BASH",test2:"test2", latitude: "-18.665695", longitude: "35.529562", ownerId: FB.getUserID()});
 	return true;
 }
 
@@ -47,12 +48,13 @@ function getBeacons(){
 		for (i=0; i < sampleLatLong.length ; i++){
     		LatLngArray[i] = new google.maps.LatLng(sampleLatLong[i][0],sampleLatLong[i][1]);
 
-		var content = '<div class="map-content"><div id="chat_'+beacon_id+'">' + i;
+		var content = '<div class="map-content"><div id="chat_'+beacon_id+'">' + beacon.test + " ("+ i + ")";
         var marker = new google.maps.Marker({
             map: map,
             title: "",
             position: new google.maps.LatLng(sampleLatLong[i][0],sampleLatLong[i][1]),
 			icon: 'icons/fire.png',
+			size: new google.maps.Size(200, 200),
 			animation:google.maps.Animation.BOUNCE,
         });
         google.maps.event.addListener(marker, 'click', (function(marker, content) {
@@ -108,7 +110,7 @@ function displayConversation(beacon_id){
    	    messages.forEach(function(child) {
    	    var message = child.val();
 		console.log(message.text );
-			$("#conversation_holder").prepend("<div class='panel panel-default'><div class='panel-body'><img src='https://graph.facebook.com/"+message.sender+"/picture/?width=45&amp;height=45'>  "+message.text+"</div></div></div>");
+			$("#conversation_holder").prepend("<div class='panel panel-default'><div class='panel-body'><img  width='50' height='50' src='https://graph.facebook.com/"+message.sender+"/picture/?width=45&amp;height=45'>  "+message.text+"</div></div></div>");
     	});
     });
     
