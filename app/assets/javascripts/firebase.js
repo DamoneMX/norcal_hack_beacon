@@ -34,13 +34,14 @@ function getBeacons(){
 		console.log(map);
 		var sampleLatLong = [[beacon.latitude, beacon.longitude]]
 		var myLatlng2 = new google.maps.LatLng(beacon.latitude,beacon.longitude);
+		/*
    		var marker = new google.maps.Marker({
         	animation:google.maps.Animation.BOUNCE,
 	        position: myLatlng2,
 	        map: map,
 	        title: '',
 	        icon: 'icons/fire.png',
-        });
+        });*/
 	
 		var LatLngArray  = new Array(sampleLatLong.length);
    		var infowindow = new google.maps.InfoWindow();
@@ -49,16 +50,33 @@ function getBeacons(){
     		LatLngArray[i] = new google.maps.LatLng(sampleLatLong[i][0],sampleLatLong[i][1]);
 
 		var content = '<div class="map-content"><div id="chat_'+beacon_id+'">' + beacon.test + " ("+ i + ")";
+		
+		var count = 1;
+		 var chats_ref = new Firebase("https://facebook-hack.firebaseio.com/chats/" + beacon_id).once('value', function(messages){ 
+		 	for(var x in messages.val())
+		 		count++;
+    	});
+        beacon_chats.push(chats_ref);
+		var pinIcon = function(size) {
+		 return new google.maps.MarkerImage(
+		    "icons/fire.png",
+		    null, /* size is determined at runtime */
+		    null, /* origin is 0,0 */
+		    null, /* anchor is bottom center of the scaled image */
+		    new google.maps.Size(32 * size , 32 * size)
+		);
+		}
         var marker = new google.maps.Marker({
             map: map,
             title: "",
             position: new google.maps.LatLng(sampleLatLong[i][0],sampleLatLong[i][1]),
-			icon: 'icons/fire.png',
+			icon: pinIcon(count),
 			size: new google.maps.Size(200, 200),
 			animation:google.maps.Animation.BOUNCE,
         });
         google.maps.event.addListener(marker, 'click', (function(marker, content) {
             return function() {
+            	console.log("triggered click");
                 displayConversation(beacon_id);
                 active_beacon = beacon_id;
             }
@@ -82,16 +100,7 @@ function getBeacons(){
         	$("#chat_" + beacon_id).append("<div>"+message.text+"</div>");
         });*/
         
-        var chats_ref = new Firebase("https://facebook-hack.firebaseio.com/chats/" + beacon_id).once('value', function(messages){ 
-   	    	messages.forEach(function(child) {
-   	    		var message = child.val();
-   	    		//$("#chat_" + beacon_id).append("<div>"+message.text+"</div>");
-   	    		console.log(message.text);
-               //console.log(child.val());
-                //videoIds[videoIdIndex++] = childSnapshot.name();
-            });
-    	});
-        beacon_chats.push(chats_ref);
+       
         
 	});
 	
