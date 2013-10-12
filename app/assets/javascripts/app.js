@@ -5,6 +5,11 @@ $(document).ready(function() {
 	$(document).keypress(function(e) {
 	    if(e.which == 13) 
 	    	if($("#message_area").val() != ""){
+	    		if(FB.getUserID() == ""){
+	    			console.log("not logged in");
+	    			$('#myModal').modal()
+	    			return;
+	    		}
 	    		sendMessage(active_beacon);
 	    		$("#conversation_holder").prepend("<div class='panel panel-default'><div class='panel-body'><img src='https://graph.facebook.com/"+FB.getUserID()+"/picture/?width=45&amp;height=45'>  "+$("#message_area").val()+"</div></div></div>");
 	    		$("#message_area").val("");
@@ -12,7 +17,7 @@ $(document).ready(function() {
 	});
 });
 
-var myLatlng = new google.maps.LatLng(20,20);
+var myLatlng = new google.maps.LatLng(37.4846756,-122.1483885);
 function showPosition(position){
 	//console.log(position.coords.latitude + " "  + position.coords.longitude); 37.4846756 -122.1483885
      myLatlng = new google.maps.LatLng(position.coords.latitude,position.coords.longitude);
