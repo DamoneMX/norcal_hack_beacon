@@ -1,3 +1,4 @@
+var beacons = new Array();
 $(document).ready(function() {
 	navigator.geolocation.getCurrentPosition(showPosition);
 	getBeacons();
@@ -17,7 +18,41 @@ $(document).ready(function() {
 	    		}
 	    	}
 	});
+	
+	var beacn_id = 0;
+	var beacons_ref = new Firebase("https://facebook-hack.firebaseio.com/beacons").once('value', function(messages){ 
+   	    messages.forEach(function(child) {
+   	    	beacn_id = child.ac.path.m[1];
+   	    	var chats_ref = new Firebase("https://facebook-hack.firebaseio.com/chats/" + beacn_id);
+   	    	beacons[beacn_id] = new Array();
+   	    	chats_ref.once('value', function(childs){
+   	    		childs.forEach(function(conv){
+   	    			console.log("adding childs" + conv.ac.path.m[1]);
+   	    			beacons[beacn_id].push(conv.ac.path.m[1]);
+   	    		});
+   	    	}); 
+			chats_ref.on('child_added', function(snapshot) { 
+				//console.log("active beacon: ") + active_beacon;
+				//console.log("child has been added to chats for: " + beacn_id); //no funciona por q 
+				var snap = snapshot.val();
+				$("#conversation_holder").prepend("<div class='panel panel-default'><div class='panel-body'><img height='50' width='50' src='https://graph.facebook.com/"+snap.sender+"/picture/?width=45&amp;height=45'>  "+snap.text+"</div></div></div>");
+			});
+	   	    //var message = child.val();
+	   	    //console.log(message);
+	   	    //console.log("done with beacons");
+    	});
+    }); 
+	
+	
+	/*
+	var chats_ref = new Firebase("https://facebook-hack.firebaseio.com/chats/" + beacon_id);
+	chats_ref.on('child_added', function(snapshot) { 
+		console.log("child has been added to chats");
+	});
+	*/
 });
+
+
 
 var myLatlng = new google.maps.LatLng(37.4846756,-122.1483885);
 function showPosition(position){

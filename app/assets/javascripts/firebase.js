@@ -49,13 +49,14 @@ function getBeacons(){
 		for (i=0; i < sampleLatLong.length ; i++){
     		LatLngArray[i] = new google.maps.LatLng(sampleLatLong[i][0],sampleLatLong[i][1]);
 
-		var content = '<div class="map-content"><div id="chat_'+beacon_id+'">' + beacon.test + " ("+ i + ")";
+		
 		
 		var count = 1;
-		 var chats_ref = new Firebase("https://facebook-hack.firebaseio.com/chats/" + beacon_id).once('value', function(messages){ 
+		var chats_ref = new Firebase("https://facebook-hack.firebaseio.com/chats/" + beacon_id).once('value', function(messages){ 
 		 	for(var x in messages.val())
 		 		count++;
     	});
+    	var content = '<div class="map-content"><div id="chat_'+beacon_id+'">' + beacon.test + "";
         beacon_chats.push(chats_ref);
 		var pinIcon = function(size) {
 		 return new google.maps.MarkerImage(
