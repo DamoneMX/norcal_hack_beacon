@@ -9,8 +9,18 @@ html, body, #map-canvas {
 <div class="row">
 	<div class="col-sm-12">
     	<%= link_to("Beacon", static_pages_beacon_path) %>
-    
     <div>
+    	<button type="button" style="display:none" id="conversation_toggler" class="btn btn-danger" data-toggle="collapse" data-target="#conversation_div">
+		  simple collapsible
+		</button>
+
+		<div id="conversation_div" class="collapse out panel">
+			Tons of awesome conversations
+			<div id="conversation_holder" />
+			
+			</div>
+			<input type="text" id="message_area" class="form-control" placeholder="Username">
+		</div>
     	<div id="map-canvas"></div>
     </div>
     

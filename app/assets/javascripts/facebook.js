@@ -40,6 +40,14 @@ function registerUser(){
 	});	
 }
 
+function getActiveUser(){
+	console.log("registered user");
+	FB.api('/me', function(response) { 
+		console.log(response);
+		return(response.id);
+	});	
+}
+
 function testAPI() {
 	console.log('Welcome!  Fetching your information.... ');
 	//SELECT link FROM photo WHERE owner = A 

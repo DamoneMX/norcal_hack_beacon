@@ -6925,3 +6925,5283 @@ Started GET "/" for 127.0.0.1 at 2013-10-12 05:12:07 -0700
 Processing by StaticPagesController#home as HTML
   Rendered static_pages/home.html.erb within layouts/application (0.3ms)
 Completed 200 OK in 24ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 23ms (Views: 22.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 06:45:59 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 44ms (Views: 43.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 06:51:00 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:00:09 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 53ms (Views: 52.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:00:10 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:16:38 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 44ms (Views: 43.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:16:39 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:17:56 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 64ms (Views: 64.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:17:57 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:18:03 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 108ms (Views: 106.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:04 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 43ms (Views: 42.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:29 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:18:36 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 70ms (Views: 70.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:37 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:18:51 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 54ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:18:52 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 63ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:19:32 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 107ms (Views: 105.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:07 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:08 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:08 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 65ms (Views: 64.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:20:47 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 57ms (Views: 56.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:12 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 89ms (Views: 88.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:25:49 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:26:45 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 78ms (Views: 76.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:26:45 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:26:45 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:26:45 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:26:45 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:26:45 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:26:45 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:26:45 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:26:45 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:26:46 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:26:46 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:26:46 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:26:46 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:26:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:26:46 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:36:45 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 53ms (Views: 52.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:36:46 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 56ms (Views: 55.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:40:14 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:50:58 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 99ms (Views: 98.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:50:58 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:50:58 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:50:58 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:50:58 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:50:58 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:50:58 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:50:58 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:50:58 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:50:58 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:50:59 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:50:59 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:50:59 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:50:59 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:50:59 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 50ms (Views: 49.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:51:20 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 26ms (Views: 24.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:52:07 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 71ms (Views: 70.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:53:41 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 71ms (Views: 70.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:54:44 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 50ms (Views: 49.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:55:21 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:56:43 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 65ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:56:44 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 98ms (Views: 97.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:10 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 45ms (Views: 44.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:57:26 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:59:12 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 55ms (Views: 54.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:13 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:59:20 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 33ms (Views: 32.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:21 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:59:45 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 52ms (Views: 51.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:46 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 66ms (Views: 65.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 07:59:52 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 54ms (Views: 54.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:00:22 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:01:02 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 73ms (Views: 72.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:01:03 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:02:01 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 27ms (Views: 26.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:02 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:02:11 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 16ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:02:11 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:02:11 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:02:11 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:11 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:02:11 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:11 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:11 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:11 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:12 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:12 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:12 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:12 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:12 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:02:12 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 106ms (Views: 105.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:03:40 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:06:11 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 49ms (Views: 48.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:06:12 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:07:41 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 57ms (Views: 56.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:42 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:07:56 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 15ms (Views: 14.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:07:57 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 45ms (Views: 44.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:09 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 73ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:08:56 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:09:31 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 61ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:09:32 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:10:57 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 65ms (Views: 64.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:10:58 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:11:39 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 73ms (Views: 72.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:40 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:11:51 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 54ms (Views: 53.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:11:52 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 79ms (Views: 78.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:13:01 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 71ms (Views: 69.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:20:51 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 47ms (Views: 46.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:03 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:21:32 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 102ms (Views: 101.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:33 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:21:49 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:21:50 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:22:09 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 21ms (Views: 20.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:22:10 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 25ms (Views: 23.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:21 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 30ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:38 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:23:47 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 20ms (Views: 19.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:23:47 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:23:47 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:23:47 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:23:47 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:47 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:47 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:47 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:47 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:47 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:47 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:47 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:48 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:48 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:23:48 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 80ms (Views: 79.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:04 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:28:08 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:28:09 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 89ms (Views: 88.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:48 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:35:57 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 30ms (Views: 29.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:35:57 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:35:58 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:39:31 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 116ms (Views: 115.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:39:32 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:00 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 18ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:12 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:40:21 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 56ms (Views: 55.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:26 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:44:32 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 19ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:44:33 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:46:05 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 79ms (Views: 78.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:06 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:46:13 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 19ms (Views: 18.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:46:14 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:46:14 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:46:14 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:15 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:46:15 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:15 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:15 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:15 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:15 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:15 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:15 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:15 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:15 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:46:15 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 17ms (Views: 16.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:47:22 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 80ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:28 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:52:34 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 17ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:35 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 63ms (Views: 62.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:52:46 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 47ms (Views: 46.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:34 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 19ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:41 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:54:47 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 30ms (Views: 28.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:48 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:54:54 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 24ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:54 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:54 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:55 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:55 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:55 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:55 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:54:55 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:55 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:55 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:55 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:55 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:55 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:55 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:54:55 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:55:08 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:55:09 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:56:27 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 19ms (Views: 18.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:56:28 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 19ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:18 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:57:27 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 33ms (Views: 31.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:57:28 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:08 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 08:58:14 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 18ms (Views: 16.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 08:58:15 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:07:23 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 76ms (Views: 75.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:24 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 21ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:33 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:07:38 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:07:39 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:08:34 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 84ms (Views: 83.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:08:34 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:08:34 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:34 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:08:34 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:34 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:08:34 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:34 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:34 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:34 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:34 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:34 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:35 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:35 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:08:46 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:47 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:08:55 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 15ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:08:56 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:04 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:09:09 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 26ms (Views: 24.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:09:10 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:10:04 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 93ms (Views: 92.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:10:05 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 66ms (Views: 64.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:16 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:11:29 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 21ms (Views: 20.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:11:30 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:53:52 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 59ms (Views: 58.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:53:53 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 25ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:07 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:54:52 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 48ms (Views: 47.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:54:52 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:54:52 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:54:53 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:53 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:54:53 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:53 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:53 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:53 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:53 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:53 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:53 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:53 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:53 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:53 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:54:58 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 17ms (Views: 15.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:54:59 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:56:29 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 54ms (Views: 52.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:56:29 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:56:29 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:56:29 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:56:29 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:29 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:29 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:29 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:29 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:29 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:29 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:30 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:30 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:30 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:30 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 21ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:56:39 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:57:05 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 17ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:57:05 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:57:05 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:57:05 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:57:05 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:05 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:05 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:05 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:05 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:05 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:05 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:06 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:06 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:06 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:06 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:57:15 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 35ms (Views: 34.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:57:16 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 61ms (Views: 60.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:06 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:58:24 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 102ms (Views: 101.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:25 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 20ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:58:47 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:59:02 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:03 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 09:59:58 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 70ms (Views: 69.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 09:59:59 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 10:00:04 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 10:00:05 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 66ms (Views: 65.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:32 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 10:53:39 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 34ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 10:53:40 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 10:54:25 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 16ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:26 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 10:54:34 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 16ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 10:54:35 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 50ms (Views: 49.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:41 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 10:56:47 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 30ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 10:56:48 -0700
