@@ -1,5 +1,6 @@
 var users_ref = new Firebase('https://facebook-hack.firebaseio.com/users');
 var chat_ref = new Firebase("https://facebook-hack.firebaseio.com/beacon_chat_test");
+var active_beacon = 
 
 function addUser(userId){
 	console.log("adding user");
@@ -15,10 +16,11 @@ function getUser(userId){
 
 function addBeacon(userId, beaconInfo){
 	var beacons_ref = new Firebase('https://facebook-hack.firebaseio.com/' + userId + "_beacons");
-	beacons_ref.push({test:"test",test2:"test2", latitude: "19.32", longitude: "23.21"});
+	var reference = beacons_ref.push({test:"test",test2:"test2", latitude: "19.32", longitude: "23.21"});
+	console.log(reference.path.m[1]);
 	return true;
 }
-
+google.maps.event.addDomListener(window, 'load', initialize);
 function sendMessage(){
 	chat_ref.push({message:"Sample Text", sender: "907995244"});
 	return true;

@@ -4,4 +4,8 @@ class StaticPagesController < ApplicationController
 
   def beacon
   end
+  
+  def index
+    render layout: false
+  end
 end

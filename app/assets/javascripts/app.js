@@ -3,7 +3,11 @@ $(document).ready(function() {
 });
 
 function showPosition(position){
-    var myLatlng = new google.maps.LatLng(position.coords.latitude,position.coords.longitude);
+     myLatlng = new google.maps.LatLng(position.coords.latitude,position.coords.longitude);
+     google.maps.event.addDomListener(window, 'load', initialize);
+}
+    
+function initialize(){    
     var mapOptions = {
 	zoom: 4,
       center: myLatlng,
