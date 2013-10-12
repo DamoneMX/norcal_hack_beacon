@@ -14749,3 +14749,321 @@ Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 12:11:46 -0700
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 12:11:46 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 17ms (Views: 16.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 12:24:34 -0700
+
+
+Started POST "/" for 127.0.0.1 at 2013-10-12 12:24:43 -0700
+
+ActionController::RoutingError (No route matches [POST] "/"):
+  actionpack (4.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `block in call'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.0) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  railties (4.0.0) lib/rails/engine.rb:511:in `call'
+  railties (4.0.0) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/damonemx/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /home/damonemx/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /home/damonemx/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /home/damonemx/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.7ms)
+  Rendered /home/damonemx/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /home/damonemx/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.8ms)
+  Rendered /home/damonemx/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 12:24:56 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 33ms (Views: 32.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 66ms (Views: 65.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 12:26:53 -0700
+
+
+Started POST "/" for 127.0.0.1 at 2013-10-12 12:27:05 -0700
+
+ActionController::RoutingError (No route matches [POST] "/"):
+  actionpack (4.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `block in call'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.0) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  railties (4.0.0) lib/rails/engine.rb:511:in `call'
+  railties (4.0.0) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/damonemx/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /home/damonemx/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /home/damonemx/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /home/damonemx/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.8ms)
+  Rendered /home/damonemx/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /home/damonemx/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.8ms)
+  Rendered /home/damonemx/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (12.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 12:27:09 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 24ms (Views: 22.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 15ms (Views: 14.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 12:28:31 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 15ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 12:32:38 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 12:32:39 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 12:32:39 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-12 12:34:20 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 21ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/tests.css?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/facebook.js?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/firebase.js?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/jarallax-0.2.2.js?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
+
+
+Started GET "/assets/tests.js?body=1" for 127.0.0.1 at 2013-10-12 12:34:21 -0700
