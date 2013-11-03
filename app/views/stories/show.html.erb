@@ -1,0 +1,44 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @story.name %>
+</p>
+
+<p>
+  <strong>Content:</strong>
+  <%= @story.content %>
+</p>
+
+<p>
+  <strong>Origin:</strong>
+  <%= @story.origin %>
+</p>
+
+<p>
+  <strong>Destination:</strong>
+  <%= @story.destination %>
+</p>
+
+<p>
+  <strong>Orlat:</strong>
+  <%= @story.orLat %>
+</p>
+
+<p>
+  <strong>Orlng:</strong>
+  <%= @story.orLng %>
+</p>
+
+<p>
+  <strong>Deslat:</strong>
+  <%= @story.desLat %>
+</p>
+
+<p>
+  <strong>Deslng:</strong>
+  <%= @story.desLng %>
+</p>
+
+<%= link_to 'Edit', edit_story_path(@story) %> |
+<%= link_to 'Back', stories_path %>

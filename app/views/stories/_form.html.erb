@@ -1,0 +1,55 @@
+<%= form_for(@story) do |f| %>
+  <% if @story.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@story.errors.count, "error") %> prohibited this story from being saved:</h2>
+
+      <ul>
+      <% @story.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br>
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :content %><br>
+    <%= f.text_area :content %>
+  </div>
+  <div class="field">
+    <%= f.label :origin %><br>
+    <%= f.text_field :origin, :id => 'q' %>
+  </div>
+  <div class="field">
+    <%= f.label :destination %><br>
+    <%= f.text_field :destination, :id => 'q2' %>
+  </div>
+  <div class="field">
+    <%= f.label :photo %><br>
+    <%= f.text_field :photo %>
+  </div>
+  <div style="display:none;">
+	  <div class="field">
+	    <%= f.label :orLat %><br>
+	    <%= f.text_field :orLat, :id => 'lat1' %>
+	  </div>
+	  <div class="field">
+	    <%= f.label :orLng %><br>
+	    <%= f.text_field :orLng, :id => 'lng1' %>
+	  </div>
+	  <div class="field">
+	    <%= f.label :desLat %><br>
+	    <%= f.text_field :desLat, :id => 'lat2' %>
+	  </div>
+	  <div class="field">
+	    <%= f.label :desLng %><br>
+	    <%= f.text_field :desLng, :id => 'lng2' %>
+	  </div>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

@@ -1,7 +1,11 @@
 FbTest::Application.routes.draw do
-  get "static_pages/home"
+  resources :stories
+
+  get "static_pages/facebook"
   get "static_pages/beacon"
   get "static_pages/index"
+  
+  
   resources :tests
   #root 'tests#index'
   root 'static_pages#home'

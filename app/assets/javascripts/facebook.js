@@ -1,3 +1,4 @@
+/*
 $(document).ready(function() {
 	console.log("Loading library");
 	$.ajaxSetup({ cache: true });
@@ -66,3 +67,4 @@ function logout(){
  	FB.logout();
  	
 }
+*/

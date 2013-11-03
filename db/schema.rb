@@ -11,7 +11,21 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131012020048) do
+ActiveRecord::Schema.define(version: 20131102232709) do
+
+  create_table "stories", force: true do |t|
+    t.string   "name"
+    t.string   "content"
+    t.string   "origin"
+    t.string   "destination"
+    t.float    "orLat"
+    t.float    "orLng"
+    t.float    "desLat"
+    t.float    "desLng"
+    t.string   "photo"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "tests", force: true do |t|
     t.datetime "created_at"

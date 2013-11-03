@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  content: MyString
+  origin: MyString
+  destination: MyString
+  orLat: 1.5
+  orLng: 1.5
+  desLat: 1.5
+  desLng: 1.5
+
+two:
+  name: MyString
+  content: MyString
+  origin: MyString
+  destination: MyString
+  orLat: 1.5
+  orLng: 1.5
+  desLat: 1.5
+  desLng: 1.5

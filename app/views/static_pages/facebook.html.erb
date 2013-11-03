@@ -1,0 +1,42 @@
+<style>
+html, body, #map-canvas {
+    height: 800px;
+    margin: 0px;
+    padding: 0px
+}
+</style>
+
+<div class="row">
+	<div class="col-sm-12">
+    	<%= link_to("Beacon", static_pages_beacon_path) %>
+    	
+   </div>
+   <div class="col-sm-12">
+    <div>
+    	<button type="button" style="display:none" id="conversation_toggler" class="btn btn-danger" data-toggle="collapse" data-target="#conversation_div">
+		  simple collapsible
+		</button>
+
+		<div id="conversation_div" class="collapse out panel">
+			Tons of awesome conversations
+			<span style="float:right;cursor:pointer;" onclick="$('#conversation_div').collapse('hide');"><span class="glyphicon glyphicon-chevron-down"></span>&nbsp;Hide conversation &nbsp;</span>
+			<input type="text" id="message_area" class="form-control" placeholder="Say Something!!!">
+			<div id="conversation_holder" />
+			</div>
+		</div>
+    	<div id="map-canvas"></div>
+    </div>
+    
+    <div id="chat"></div>
+    </div><!-- /.col-sm-4 -->
+</div>
+ <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-body">
+        	<h4>LOG IN!!!</h4>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+	

@@ -25,6 +25,7 @@ function test(){
 }
 
 var beacon_chats = new Array();
+/*
 function getBeacons(){
 	var beacons_ref = new Firebase("https://facebook-hack.firebaseio.com/beacons");
 	beacons_ref.on('child_added', function(snapshot) {
@@ -34,15 +35,6 @@ function getBeacons(){
 		console.log(map);
 		var sampleLatLong = [[beacon.latitude, beacon.longitude]]
 		var myLatlng2 = new google.maps.LatLng(beacon.latitude,beacon.longitude);
-		/*
-   		var marker = new google.maps.Marker({
-        	animation:google.maps.Animation.BOUNCE,
-	        position: myLatlng2,
-	        map: map,
-	        title: '',
-	        icon: 'icons/fire.png',
-        });*/
-	
 		var LatLngArray  = new Array(sampleLatLong.length);
    		var infowindow = new google.maps.InfoWindow();
 		var i;
@@ -61,9 +53,9 @@ function getBeacons(){
 		var pinIcon = function(size) {
 		 return new google.maps.MarkerImage(
 		    "icons/fire.png",
-		    null, /* size is determined at runtime */
-		    null, /* origin is 0,0 */
-		    null, /* anchor is bottom center of the scaled image */
+		    null, 
+		    null,
+		    null, 
 		    new google.maps.Size(32 * size , 32 * size)
 		);
 		}
@@ -99,13 +91,13 @@ function getBeacons(){
         	
         	console.log("looking to inset message: " + message.text);
         	$("#chat_" + beacon_id).append("<div>"+message.text+"</div>");
-        });*/
+        });
         
        
         
 	});
 	
-}
+}*/
 
 function update_chats(){
 }
@@ -127,6 +119,7 @@ function displayConversation(beacon_id){
     $("#conversation_div").collapse('show');
 }
 
+/*
 google.maps.event.addDomListener(window, 'load', initialize);
 function sendMessage(beacon_id){
 	
@@ -135,4 +128,4 @@ function sendMessage(beacon_id){
 	console.log("message sent");
 	return true;
 }
-
+*/
