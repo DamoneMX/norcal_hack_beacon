@@ -1,3 +1,4 @@
+/*
 var users_ref = new Firebase('https://facebook-hack.firebaseio.com/users');
 
 var active_beacon = 0; 
@@ -25,7 +26,6 @@ function test(){
 }
 
 var beacon_chats = new Array();
-/*
 function getBeacons(){
 	var beacons_ref = new Firebase("https://facebook-hack.firebaseio.com/beacons");
 	beacons_ref.on('child_added', function(snapshot) {
@@ -97,7 +97,7 @@ function getBeacons(){
         
 	});
 	
-}*/
+}
 
 function update_chats(){
 }
@@ -119,7 +119,6 @@ function displayConversation(beacon_id){
     $("#conversation_div").collapse('show');
 }
 
-/*
 google.maps.event.addDomListener(window, 'load', initialize);
 function sendMessage(beacon_id){
 	

@@ -1,17 +1,16 @@
-/*
 $(document).ready(function() {
 	console.log("Loading library");
 	$.ajaxSetup({ cache: true });
 	$.getScript("//connect.facebook.net/en_US/all/debug.js", function(){
-	FB.init({
-		appId: '1409756135920296', 
-   		status     : true, // check login status
-   		cookie     : true, // enable cookies to allow the server to access the session
-    	xfbml      : true  // parse XFBML
-	});     
-	
-	$('#loginbutton,#feedbutton').removeAttr('disabled');
-	FB.getLoginStatus(updateStatusCallback);
+		FB.init({
+			appId: '1409756135920296', 
+	   		status     : true, // check login status
+	   		cookie     : true, // enable cookies to allow the server to access the session
+	    	xfbml      : true  // parse XFBML
+		});     
+		
+		$('#loginbutton,#feedbutton').removeAttr('disabled');
+		FB.getLoginStatus(updateStatusCallback);
 		console.log("done loading");
 	});
 		   // event is fired for any authentication related change, such as login, logout or session refresh
@@ -65,6 +64,4 @@ function testAPI() {
 
 function logout(){
  	FB.logout();
- 	
 }
-*/

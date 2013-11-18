@@ -1,7 +1,8 @@
 var beacons = new Array();
 $(document).ready(function() {
 	navigator.geolocation.getCurrentPosition(showPosition);
-	getBeacons();
+	//getBeacons();
+	/*
 	update_chats();
 	$(document).keypress(function(e) {
 	    if(e.which == 13) 
@@ -44,7 +45,7 @@ $(document).ready(function() {
     	});
     }); 
 	
-	
+	*/
 	/*
 	var chats_ref = new Firebase("https://facebook-hack.firebaseio.com/chats/" + beacon_id);
 	chats_ref.on('child_added', function(snapshot) { 
